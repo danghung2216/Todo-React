@@ -1,0 +1,3 @@
+git remote add origin https://github.com/danghung2216/Todo-React.git : keets noois git
+git branch -M main: khai bao nhanh chinh
+git push -u origin main: dday file len git 
